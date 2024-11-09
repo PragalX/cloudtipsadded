@@ -36,7 +36,7 @@ export default function IntroAnimation() {
             transition={{ type: "spring", stiffness: 260, damping: 20 }}
           >
             <h1 className="text-3xl md:text-6xl gradient-text glitch">
-              Welcome to Developer's Den
+              Welcome to Pragyan's Neural World
             </h1>
           </motion.div>
         )}
