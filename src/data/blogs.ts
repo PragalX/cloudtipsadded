@@ -8,14 +8,14 @@ export interface Blog {
 export const blogs: Blog[] = [
   {
     id: '1',
-    title: 'Breaking into Cybersecurity: A Journey',
-    date: '2024-03-15',
-    content: 'My journey into cybersecurity began with a simple curiosity about how systems work...'
+    title: 'About Love',
+    date: '2024-11-08',
+    content: 'Love is Cloud Computing...'
   },
   {
     id: '2',
     title: 'The Future of Cloud Computing',
-    date: '2024-03-14',
+    date: '2024-11-07',
     content: 'As we move towards more distributed systems, the cloud continues to evolve...'
   }
 ];
